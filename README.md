@@ -11,4 +11,4 @@ Leetcode problems that have been done by me.
 
 ## Day 3: 
 * Problem 22 - https://leetcode.com/problems/generate-parentheses/description/
-* 
+* Problem 36 - https://leetcode.com/problems/valid-sudoku/description/
